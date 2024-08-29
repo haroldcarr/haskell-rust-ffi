@@ -1,5 +1,3 @@
-#![feature(array_methods)]
-#![feature(trace_macros)]
 
 mod instances;
 mod macros;
